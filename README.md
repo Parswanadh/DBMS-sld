@@ -2,7 +2,7 @@
 
 ![Amrita Bengaluru campus sketch](client/public/media/campus-sketch.webp)
 
-A role-based amrita campus placement portal built for the Amrita Bengaluru DBMS project. The React and TypeScript client talks to an Express API; Oracle Database is the only application database. Gmail carries sign-in codes. The public site is [dbms.sld.parswanadh.dev](https://dbms.sld.parswanadh.dev).
+A role-based campus placement portal built for the Amrita Bengaluru DBMS project. The React and TypeScript client talks to an Express API; Oracle Database is the only application database. Gmail carries sign-in codes. The public site is [dbms.sld.parswanadh.dev](https://dbms.sld.parswanadh.dev).
 
 **Source release:** [Parswanadh/DBMS-sld](https://github.com/Parswanadh/DBMS-sld) · **Live demo:** [dbms.sld.parswanadh.dev](https://dbms.sld.parswanadh.dev)
 
